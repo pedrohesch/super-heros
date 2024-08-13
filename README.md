@@ -7,7 +7,8 @@ Neste repositório encontram-se 2 arquivos:
 
 2- app.py - Aplicação streamlit para rodar e verificar as analises e fazer previsoes com modelos encontrados no notebook de forma interativa.
 
-Para rodar a aplicação , basta digitar na linha de comando, no mesmo diretorio onde se encontra o arquivo app.py (ou indicando o caminho), o seguinte comando:
+Para rodar a aplicação , basta digitar na linha de comando, no mesmo diretorio onde se encontra o arquivo app.py (ou indicando o caminho), 
+o seguinte comando:
 
 ```bash
 streamlit run app.py
@@ -17,5 +18,5 @@ OBS: Certificar de ter o python com pacotes básicos instalados e o proprio stre
 
 A tela inicial abaixo se abrirá e no canto superior esquerdo pode-se escolher o modelo a se explorar.
 
-![inicial_img](superhero_tela_inicial.PNG)
+![inicial_png](superhero_tela_inicial.png)
 
