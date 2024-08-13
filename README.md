@@ -5,7 +5,7 @@ Neste repositório encontram-se 2 arquivos:
 
 1- superhero.ipynb - Notebook onde se encontra todo desenvolvimento e explicações das análises.
 
-2- app.py - Aplicação streamlit para rodar e verificar as analises e fazer previsoes com modelos encontrados no notebook de forma interativa.
+2- app.py - Aplicação streamlit para rodar e verificar as análises e fazer previsões com modelos encontrados no notebook de forma interativa.
 
 Para rodar a aplicação , basta digitar na linha de comando, no mesmo diretorio onde se encontra o arquivo app.py (ou indicando o caminho), 
 o seguinte comando:
